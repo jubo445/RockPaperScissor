@@ -1,3 +1,2 @@
 # RockPaperScissor
-![rockPaperOutput1](https://github.com/jubo445/RockPaperScissor/assets/63640474/ea7b806f-e609-404b-9656-dc758cea9184)
-![rockPaperOutput2](https://github.com/jubo445/RockPaperScissor/assets/63640474/0f23b5f7-251a-4b03-8636-519072cc10f9)
+![rockPaperOutput1](https://github.com/jubo445/RockPaperScissor/assets/63640474/4a55542d-013b-4616-9543-1b6c40ecf05a)
